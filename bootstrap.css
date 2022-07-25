@@ -1,0 +1,12 @@
+.body{
+    background-color: pink;
+}
+
+.navbar navbar-light bg-light{
+    background-color: black;
+}
+
+.navigation-brand{
+width: 60px;
+text-align: center;
+}
